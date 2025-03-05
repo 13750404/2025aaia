@@ -1,12 +1,12 @@
-/// weel01-1.cpp ­n¦Û¤v¥´¦n¥ş³¡ÀÉ¦W, «á­±­n¥´.cpp
-/// ¦bºÆ¨gµ{³](½m²ß¼Ò¦¡)¼g¦nªºµ{¦¡½X, ¥ş¿ï, Ctrl-C
-/// CodeBlocks File-NewEmpty ªÅ¥ÕÀÉ®×, Ctrl-S¦sÀÉ
-#include <stdio.h> ///¨Ï¥Îstandard ¼Ğ·Çªº input/output
+/// weel01-1.cpp è¦è‡ªå·±æ‰“å¥½å…¨éƒ¨æª”å, å¾Œé¢è¦æ‰“.cpp
+/// åœ¨ç˜‹ç‹‚ç¨‹è¨­(ç·´ç¿’æ¨¡å¼)å¯«å¥½çš„ç¨‹å¼ç¢¼, å…¨é¸, Ctrl-C
+/// CodeBlocks File-NewEmpty ç©ºç™½æª”æ¡ˆ, Ctrl-Så­˜æª”
+#include <stdio.h> ///ä½¿ç”¨standard æ¨™æº–çš„ input/output
 
 int main()
 {
-	int a, b; ///¾ã¼Æa, b
-	scanf("%d%d",&a, &b); ///Åª¤J¸ê®Æ ¤p¤ß "%d%d" «á­±[³r¸¹]
-	/// ¨â­Ó%d%d & &
-	printf("%d",a+b); ///¦L¥X¸ê®Æ, §âµª®×¦L¥X¨Ó
+	int a, b; ///æ•´æ•¸a, b
+	scanf("%d%d",&a, &b); ///è®€å…¥è³‡æ–™ å°å¿ƒ "%d%d" å¾Œé¢[é€—è™Ÿ]
+	/// å…©å€‹%d%d & &
+	printf("%d",a+b); ///å°å‡ºè³‡æ–™, æŠŠç­”æ¡ˆå°å‡ºä¾†
 }
